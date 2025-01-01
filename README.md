@@ -35,4 +35,4 @@ npm install
 ```
 npm start
 ```
-4. Visit http://localhost:8000/ (or whatever link is printed in the CLI) in your web browser.
+4. Visit http://localhost:3000/ (or whatever link is printed in the CLI) in your web browser.
